@@ -11,7 +11,7 @@ Or open the project in you favourite IDE and run the main class.
 ### Not supported:
    - requests with header: <b>TRANSFER_ENCODING</b>
    - connection keep alive header 
-   - ready request body with content type <b>application/x-www-form-urlencoded</b>
+   - read request body with content type <b>application/x-www-form-urlencoded</b>
    
 ### Next steps
 
